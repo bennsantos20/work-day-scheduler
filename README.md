@@ -7,5 +7,5 @@ This is an attempted recreation of a workday planner in which you can make notes
  ![Portfolio Site](./assets/images/screenshot.png)
 
 
-[Work Day Scheduler](https://bennsantos20.github.io/Horizon-Code-Refractor/)
+[Work Day Scheduler](https://bennsantos20.github.io/work-day-scheduler/)
 
